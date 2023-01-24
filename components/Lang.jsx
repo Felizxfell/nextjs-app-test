@@ -1,5 +1,6 @@
 import { useEffect } from "react";
 import { useState } from "react";
+import Link from 'next/link';
 
 import nextConfig from "../next-i18next.config";
 
@@ -50,9 +51,9 @@ export default function Lang({ changeLanguage }) {
                   onClick={() => selectLang(i.iso)}
                 >
                   {i.iso === langActual.iso && (
-                    <span className="font-bold">{i.name}</span>
+                    <Link href="/" locale={i.iso} className="font-bold">{i.name}</Link>
                   )}
-                  {i.iso !== langActual.iso && <span>{i.name}</span>}
+                  <Link href="/" locale={i.iso}>{i.name}</Link>
                 </span>
               );
             })}

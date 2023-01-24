@@ -1,0 +1,12 @@
+{
+    "title": "Contratar Espacio",
+    "period": "Incluye X Facturas",
+    "btn": {
+        "space": "Adquirir Espacio",
+        "alert": "Entendido"
+    },
+    "periods": "POR MES",
+    "alert": {
+        "title_error": "Error"
+    }
+}

@@ -1,0 +1,21 @@
+{
+    "title": "Welcome",
+    "input": {
+        "email": "Email",
+        "password": "Password"
+    },
+    "label": {
+        "remember": "Remember me",
+        "terms": "I accept the policies, terms and conditions",
+        "recovery": "I forgot my password",
+        "free": "Free account",
+        "account": "Acquire account",
+        "msj_remember": "Enter the email you registered with",
+        "email_example": "test@example.com"
+    },
+    "btn": {
+        "login": "Login",
+        "send": "Send email",
+        "alert": "Agreed"
+    }
+}

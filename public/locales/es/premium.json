@@ -1,0 +1,44 @@
+{
+    "title": "Adquirir Cuenta",
+    "description": "Información sobre adquirir una cuenta",
+    "btn": {
+        "alert": "Entendido",
+        "register": "Cuenta gratuita",
+        "login": "Iniciar sesión",
+        "account": "Crear cuenta"
+    },
+    "label":{
+        "lang": "Idioma",
+        "business": "Nombre de la empresa o entidad",
+        "name": "Nombre",
+        "lastname": "Apellido",
+        "genre": "Género",
+        "borndate": "Fecha de nacimiento",
+        "username": "Nombre de usuario",
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "terms": "Acepto las políticas, términos y condiciones"
+    },
+    "options_lang": {
+        
+    },
+    "error": {
+        "lang": "Indica el idioma",
+        "business": "Indica el nombre de la empresa",
+        "name": "Indica tu nombre",
+        "lastname": "Indica tu apellido",
+        "genre": "Indica tu género",
+        "borndate": "Indica tu fecha de nacimiento",
+        "username": "Indica tu nombre de usuario",
+        "email": "Indica tu correo electrónico",
+        "password": "Indica tu contraseña",
+        "terms": "Debes aceptar las políticas, términos y condiciones"
+    },
+    "genres": [
+        
+    ],
+    "alert": {
+        "title_success": "Éxito",
+        "title_error": "Error"
+    }
+}

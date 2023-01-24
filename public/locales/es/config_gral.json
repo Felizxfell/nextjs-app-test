@@ -1,0 +1,20 @@
+{
+    "title": "Configuración General",
+    "contractor": {
+        "title": "Datos del Contratante",
+        "description": "Completa todos los datos para mayor agilidad en el proceso de cualquier evento que pudiese surgir en el que necesitemos comunicarnos.",
+        "form": {
+            "name": "Nombre",
+            "lastname": "Apellidos",
+            "username": "Nombre de usuario",
+            "phone": "Teléfono",
+            "email": "Correo electrónico",
+            "password": "Contraseña",
+            "language": "Idioma",
+            "borndate": "Fecha de nacimiento",
+            "business": "Nombre de la Empresa",
+            "system": "Nombre del Sistema",
+            "address": "Dirección"
+        }
+    }
+}

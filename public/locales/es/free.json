@@ -1,0 +1,38 @@
+{
+    "title": "Registro Gratuito",
+    "description": "¿Qué es el registro gratuito?",
+    "btn": {
+        "alert": "Entendido",
+        "register": "Registrarme",
+        "login": "Iniciar sesión",
+        "account": "Adquirir cuenta"
+    },
+    "label":{
+        "lang": "Idioma",
+        "name": "Nombre",
+        "lastname": "Apellido",
+        "genre": "Género",
+        "borndate": "Fecha de nacimiento",
+        "username": "Nombre de usuario",
+        "email": "Correo electrónico",
+        "password": "Contraseña",
+        "terms": "Acepto las políticas, términos y condiciones"
+    },
+    "options_lang": {
+        
+    },
+    "error": {
+        "lang": "Indica el idioma",
+        "name": "Indica tu nombre",
+        "lastname": "Indica tu apellido",
+        "genre": "Indica tu género",
+        "borndate": "Indica tu fecha de nacimiento",
+        "username": "Indica tu nombre de usuario",
+        "email": "Indica tu correo electrónico",
+        "password": "Indica tu contraseña",
+        "terms": "Debes aceptar las políticas, términos y condiciones"
+    },
+    "genres": [
+        
+    ]
+}

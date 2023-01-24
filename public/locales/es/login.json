@@ -1,0 +1,30 @@
+{
+    "title": "Bienvenido",
+    "input": {
+        "email": "Correo electrónico",
+        "password": "Contraseña"
+    },
+    "label": {
+        "remember": "Recordarme",
+        "terms": "Acepto las políticas, términos y condiciones",
+        "recovery": "Olvidé mi contraseña",
+        "free": "Cuenta gratuita",
+        "account": "Adquirir cuenta",
+        "msj_remember": "Introduce el correo electrónico con el que te registraste",
+        "email_example": "test@ejemplo.com"
+    },
+    "btn": {
+        "login": "Ingresar",
+        "send": "Enviar correo",
+        "alert": "Entendido"
+    },
+    "error":{
+        "email": "Indica tu correo electrónico",
+        "password": "Indica tu contraseña",
+        "terms": "Debes aceptar las políticas, términos y condiciones"
+    },
+    "alert": {
+        "title_success": "Éxito",
+        "title_error": "Error"
+    }
+}

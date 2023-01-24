@@ -1,5 +1,4 @@
-import { useEffect } from "react";
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import Link from 'next/link';
 
 import nextConfig from "../next-i18next.config";
